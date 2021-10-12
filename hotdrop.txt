@@ -1,0 +1,6 @@
+- upload expiring file to S3
+- encrypt file
+- compress file
+- one time link
+- compress then encrypt
+- map public url to aws url
