@@ -50,20 +50,3 @@ post '/file' do
     end
 
 end
-
-
-# File.delete(path) if File.exist?(path)
-
-
-
-
-# Cache clear 
-# Thread.new do
-#     sleep(5) # seconds
-#     #do stuff
-# end
-
-
-# insert_mapping(generator.generate_phrase, SecureRandom.uuid)
-# item = get_item('cavernously-flashy-croaw')
-# puts "oh no" unless item['item'] != nil
